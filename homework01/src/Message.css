@@ -1,0 +1,16 @@
+.message{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 50px;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+}
+.title{
+    color: red;
+}
+.text{
+    border: 1px solid;
+    padding: 20px;
+}
