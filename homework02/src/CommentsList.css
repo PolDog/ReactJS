@@ -1,0 +1,15 @@
+.comment{
+    display: flex;
+    /* flex-direction: row; */
+    /* gap: 30px; */
+    height: 30px;
+    width: 300px;
+    font-size: 20px;
+    /* background-color: black; */
+    /* color: white; */
+    justify-content:space-between;
+    align-items: center;
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+}
