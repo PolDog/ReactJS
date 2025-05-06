@@ -5,3 +5,4 @@ homework03  -   Урок 3. Virtual DOM. Подключение библиоте
 homework04  -   Урок 4. Children. Роутинг в React  
 homework05  -   Урок 5. Компоненты высшего порядка знакомство с Redux  
 homework06  -   Урок 6. Погружение в Redux. Connect  
+homework07  -   Урок 7. Redux middlewares. Redux persist  
